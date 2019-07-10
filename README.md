@@ -1,4 +1,4 @@
-Abandonned project from 2 years ago when I had first started learning. It virtualizes a key-press when the user speaks such that it acts like a push-to-talk for software that don't have proper voice-activation.  
+Abandoned project from 2 years ago when I had first started learning. It virtualizes a key-press when the user speaks such that it acts like a push-to-talk for software that don't have proper voice-activation.  
 
 I will pick this project back up once I am done studying Deitel learning C++
 
